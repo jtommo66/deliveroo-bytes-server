@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "phone number": "07281772637",
+    "email": "john.doe@email.com",
+    "username": "JDoe",
+    "password": "secure123"
+  },
+  {
+    "id": "2",
+    "name": "Alice Johnson",
+    "phone number": "07293887361",
+    "email": "alice.johnson@email.com",
+    "username": "AJohnson",
+    "password": "mypassword"
+  },
+  {
+    "id": "3",
+    "name": "Emily White",
+    "phone number": "07827773676",
+    "email": "emily.white@email.com",
+    "username": "EWhite",
+    "password": "pass123"
+  },
+  {
+    "id": "4",
+    "name": "Michael Brown",
+    "phone number": "07283889876",
+    "email": "michael.brown@email.com",
+    "username": "MBrown",
+    "password": "brownie123"
+  },
+  {
+    "id": "5",
+    "name": "Sophia Lee",
+    "phone number": "07287441524",
+    "email": "sophia.lee@email.com",
+    "username": "SLee",
+    "password": "password123"
+  },
+  {
+    "id": "6",
+    "name": "Daniel Wilson",
+    "phone number": "07826336478",
+    "email": "daniel.wilson@email.com",
+    "username": "DWilson",
+    "password": "daniel456"
+  },
+  {
+    "id": "7",
+    "name": "Olivia Davis",
+    "phone number": "07835116231",
+    "email": "olivia.davis@email.com",
+    "username": "ODavis",
+    "password": "securepass"
+  },
+  {
+    "id": "8",
+    "name": "William Taylor",
+    "phone number": "07890009761",
+    "email": "william.taylor@email.com",
+    "username": "WTaylor",
+    "password": "will123"
+  },
+  {
+    "id": "9",
+    "name": "Ella Martinez",
+    "phone number": "07009112345",
+    "email": "ella.martinez@email.com",
+    "username": "EMartinez",
+    "password": "ellapass"
+  },
+  {
+    "id": "10",
+    "name": "James Anderson",
+    "phone number": "07352645615",
+    "email": "james.anderson@email.com",
+    "username": "JAnderson",
+    "password": "anderson789"
+  }
+]
