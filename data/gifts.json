@@ -3,60 +3,70 @@
     "id": "1",
     "gift": "Headphones",
     "price": "£250.00",
-    "image": "http://localhost:8000/images/headphones.jpg"
+    "image": "http://localhost:8000/images/headphones.jpg",
+    "description": "Intelligent and intuitive, Sony’s WH-1000XM4 over-ear wireless headphones make it just you and the music. Further improvements to the brand’s renowned QN1 noise cancelling processor bring you closer to your listening with no distractions. Next gen Adaptive Sound Control optimises the audio according to your activity and surroundings, automatically recognising your frequent locations via GPS. The powerful combination of High Resolution Audio, Bluetooth with LDAC, and DSEE Extreme upscaling tech bring you a pure sound, closer to how the artist intended. You can keep listening in noise-cancelled comfort, day and night, with 30 hour battery life. And stay in touch and in control with intelligent features like gesture control, as well as hands-free calling and interaction with your phone’s voice assistant."
   },
   {
     "id": "2",
     "gift": "Chocolates",
     "price": "£15.99",
-    "image": "http://localhost:8000/images/chocolates.jpeg"
+    "image": "http://localhost:8000/images/chocolates.jpeg",
+    "description": "Indulge in Lily O'Brien's delightfully delicious miniature mouthfuls of sumptuous milk, dark and white chocolate recipes. Each box contains 45 chocolates weighs 430g Chocolate recipes include; Simply Chocolate, Raspberry Creme, Chocolate Orange, Le Crunch Chocolat and Rich Praline."
   },
   {
     "id": "3",
     "gift": "iPhone",
     "price": "£1000.00",
-    "image": "http://localhost:8000/images/iphone.jpeg"
+    "image": "http://localhost:8000/images/iphone.jpeg",
+    "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface."
   },
   {
     "id": "4",
     "gift": "Trainers",
     "price": "£49.99",
-    "image": "http://localhost:8000/images/trainers.jpg"
+    "image": "http://localhost:8000/images/trainers.jpg",
+    "description": "This fresh take on the classic Suede draws inspiration from PUMA’s heritage within breakdancing and its influence on modern streetwear. The Suede XL retains the Suede’s iconic DNA, but gives it a twist with an exaggerated padded collar and tongue, plus a chunkier sole. This execution features a full suede upper with a leather Formstrip.   "
   },
   {
     "id": "5",
     "gift": "Book",
     "price": "£9.99",
-    "image": "http://localhost:8000/images/book.jpeg"
+    "image": "http://localhost:8000/images/book.jpeg",
+    "description": " This tale of a troubled man hired to care for a remote mountain resort over the winter, his loyal wife, and their uniquely gifted son slowly but steadily unfolds as secrets from the Overlook Hotel's past are revealed, and the hotel itself attempts to claim the very souls of the Torrance family."
   },
   {
     "id": "6",
     "gift": "Watch",
     "price": "£79.99",
-    "image": "http://localhost:8000/images/watch.jpg"
+    "image": "http://localhost:8000/images/watch.jpg",
+    "description": "LACOSTE WATCHES - Combining a large colour palette drawn from the famous L.12.12 polo shirt - Clean and beautiful shapes - Playful and graphical patterns - Remarkable finishes - The unique, signature crocodile logo, one of the most recognized fashion symbols in the world"
   },
   {
     "id": "7",
     "gift": "Flowers",
     "price": "£6.99",
-    "image": "http://localhost:8000/images/flowers.jpeg"
+    "image": "http://localhost:8000/images/flowers.jpeg",
+    "description": "Freshly picked flowers, arranged in a beautiful bouquet with a 7 day life guarantee"
   },
   {
     "id": "8",
     "gift": "Video Game",
     "price": "£49.99",
-    "image": "http://localhost:8000/images/videogame.jpg"
+    "image": "http://localhost:8000/images/videogame.jpg",
+    "description": "Explore the vast land - and skies - of Hyrule. An epic adventure awaits in the Legend of Zelda: Tears of the Kingdom game, only on the Nintendo Switch system."
   },
   {
     "id": "9",
     "gift": "Bottle of Wine",
     "price": "£12.99",
-    "image": "http://localhost:8000/images/wine.jpg"
+    "image": "http://localhost:8000/images/wine.jpg",
+    "description": "Cali Red is bought to you by Cali's own Snoop Dogg. Full and dense with strong black & blue fruit notes, complemented by bright red slightly candied fruit, and toasted oak. Cali Red. Defiant by nature, bold in character and always uncompromising."
   },
   {
     "id": "10",
     "gift": "Phone Case",
     "price": "£20.00",
-    "image": "http://localhost:8000/images/phonecase.jpg"
+    "image": "http://localhost:8000/images/phonecase.jpg",
+    "description": "A silicone phone case made to fit your phone perfectly and provide security and protection from dents and dings"
   }
 ]
