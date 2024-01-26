@@ -32,6 +32,7 @@ router.patch("/:id", (req, res) => {
 
     if (!singleUser) {
       res.status(404).send("User not found");
+      return;
     }
     const updatedData = data.filter((user) => user.id !== req.params.id);
 
