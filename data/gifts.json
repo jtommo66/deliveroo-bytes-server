@@ -57,10 +57,10 @@
   },
   {
     "id": "9",
-    "gift": "Bottle of Wine",
-    "price": "£12.99",
-    "image": "http://localhost:8000/images/wine.jpg",
-    "description": "Cali Red is bought to you by Cali's own Snoop Dogg. Full and dense with strong black & blue fruit notes, complemented by bright red slightly candied fruit, and toasted oak. Cali Red. Defiant by nature, bold in character and always uncompromising."
+    "gift": "Glenmorangie Single Malt Scotch Whiskey 70cl",
+    "price": "£62.99",
+    "image": "http://localhost:8000/images/whiskey.jpg",
+    "description": "A pale golden, single malt whisky with hints of citrus and peach. Perfect on its own or enjoyed in a cocktail. 70cl, 40% ABV"
   },
   {
     "id": "10",
