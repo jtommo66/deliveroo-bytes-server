@@ -3,60 +3,60 @@
     "id": "1",
     "gift": "Headphones",
     "price": "£250.00",
-    "image": "http://localhost:8000/images/headphones.jpg"
+    "image": "http://localhost:8080/images/headphones.jpg"
   },
   {
     "id": "2",
     "gift": "Chocolates",
     "price": "£15.99",
-    "image": "http://localhost:8000/images/chocolates.jpeg"
+    "image": "http://localhost:8080/images/chocolates.jpeg"
   },
   {
     "id": "3",
     "gift": "iPhone",
     "price": "£1000.00",
-    "image": "http://localhost:8000/images/iphone.jpeg"
+    "image": "http://localhost:8080/images/iphone.jpeg"
   },
   {
     "id": "4",
     "gift": "Trainers",
     "price": "£49.99",
-    "image": "http://localhost:8000/images/trainers.jpg"
+    "image": "http://localhost:8080/images/trainers.jpg"
   },
   {
     "id": "5",
     "gift": "Book",
     "price": "£9.99",
-    "image": "http://localhost:8000/images/book.jpeg"
+    "image": "http://localhost:8080/images/book.jpeg"
   },
   {
     "id": "6",
     "gift": "Watch",
     "price": "£79.99",
-    "image": "http://localhost:8000/images/watch.jpg"
+    "image": "http://localhost:8080/images/watch.jpg"
   },
   {
     "id": "7",
     "gift": "Flowers",
     "price": "£6.99",
-    "image": "http://localhost:8000/images/flowers.jpeg"
+    "image": "http://localhost:8080/images/flowers.jpeg"
   },
   {
     "id": "8",
     "gift": "Video Game",
     "price": "£49.99",
-    "image": "http://localhost:8000/images/videogame.jpg"
+    "image": "http://localhost:8080/images/videogame.jpg"
   },
   {
     "id": "9",
     "gift": "Bottle of Wine",
     "price": "£12.99",
-    "image": "http://localhost:8000/images/wine.jpg"
+    "image": "http://localhost:8080/images/wine.jpg"
   },
   {
     "id": "10",
     "gift": "Phone Case",
     "price": "£20.00",
-    "image": "http://localhost:8000/images/phonecase.jpg"
+    "image": "http://localhost:8080/images/phonecase.jpg"
   }
 ]
