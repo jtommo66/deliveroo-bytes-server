@@ -51,7 +51,8 @@
     "id": "9",
     "gift": "Glenmorangie Single Malt Scotch Whiskey 70cl",
     "price": "£62.99",
-    "image": "http://localhost:8080/images/wine.jpg"
+    "image": "http://localhost:8080/images/wine.jpg",
+    "description": "A pale golden, single malt whisky with hints of citrus and peach. Perfect on its own or enjoyed in a cocktail. 70cl, 40% ABV"
   },
   {
     "id": "10",
